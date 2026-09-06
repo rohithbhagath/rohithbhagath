@@ -99,4 +99,4 @@
   </a>
 </p>
 
-<p align="center"><i> Sneak into my site ([https://gprm.itsvg.in](https://portfolio-rohithbhagath-as-24.vercel.app/))</i></p>
+<p align="center"><i> Sneak into my site ((https://portfolio-rohithbhagath-as-24.vercel.app/))</i></p>
