@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="neural network banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohith Bhagath A S</h1>
 <h3 align="center">GenAI & Agentic AI Engineer | Building intelligent systems that reason, collaborate & automate</h3>
 
@@ -99,4 +103,4 @@
   </a>
 </p>
 
-<p align="center"><i> Sneak into my site ((https://portfolio-rohithbhagath-as-24.vercel.app/))</i></p>
+<p align="center"><i>Proudly built with GPRM (https://gprm.itsvg.in)</i></p>
